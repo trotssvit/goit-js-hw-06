@@ -9,6 +9,7 @@
 // console.log(value)
 
 const loginForm = document.querySelector(".login-form");
+// console.log(loginForm)
 
 loginForm.addEventListener("submit", (event) => {
     event.preventDefault();
